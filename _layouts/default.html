@@ -84,32 +84,132 @@
 </script>
 
   <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 40px 24px;
-      line-height: 1.6;
-      color: #24292f;
-    }
+  :root {
+    --text: #1f2937;
+    --muted: #64748b;
+    --accent: #174a7e;
+    --accent-soft: #eef5fb;
+    --border: #e2e8f0;
+    --background: #ffffff;
+    --soft-background: #f8fafc;
+  }
 
-    h1, h2, h3 {
-      line-height: 1.25;
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  main {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 64px 32px 80px;
+  }
+
+  h1 {
+    font-size: 3rem;
+    line-height: 1.1;
+    letter-spacing: -0.035em;
+    margin: 0 0 14px;
+    color: #111827;
+  }
+
+  h2 {
+    margin-top: 56px;
+    margin-bottom: 20px;
+    padding-bottom: 9px;
+    font-size: 1.65rem;
+    line-height: 1.25;
+    color: #111827;
+    border-bottom: 2px solid var(--accent);
+  }
+
+  h3 {
+    margin-top: 32px;
+    margin-bottom: 10px;
+    font-size: 1.18rem;
+    line-height: 1.4;
+    color: var(--accent);
+  }
+
+  p {
+    margin: 0 0 18px;
+  }
+
+  strong {
+    color: #111827;
+  }
+
+  a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  ul {
+    padding-left: 22px;
+  }
+
+  li {
+    margin-bottom: 7px;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid var(--border);
+    margin: 30px 0;
+  }
+
+  blockquote {
+    margin: 28px 0;
+    padding: 18px 22px;
+    background: var(--accent-soft);
+    border-left: 4px solid var(--accent);
+    color: #334155;
+  }
+
+  code {
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: var(--soft-background);
+  }
+
+  main > p:first-of-type {
+    font-size: 1.2rem;
+    color: #334155;
+  }
+
+  @media (max-width: 700px) {
+    main {
+      padding: 38px 20px 60px;
     }
 
     h1 {
-      margin-top: 0;
+      font-size: 2.25rem;
     }
 
-    a {
-      color: #0969da;
+    h2 {
+      font-size: 1.45rem;
+      margin-top: 42px;
     }
 
-    hr {
-      border: 0;
-      border-top: 1px solid #d0d7de;
+    body {
+      font-size: 16px;
     }
-  </style>
+  }
+</style>
 </head>
 
 <body>
