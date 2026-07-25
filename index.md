@@ -9,6 +9,7 @@ description: "Academic profile of Simón Peña-Fernández, Full Professor of Jou
 **Full Professor of Journalism at the University of the Basque Country (UPV/EHU)**
 
 Artificial Intelligence · Journalism · Digital Media · Disinformation · Social Media · Algorithmic Polarisation
+
 ---
 
 **[Academic CV](/spenafernandez/cv/)** ·
@@ -18,28 +19,28 @@ Artificial Intelligence · Journalism · Digital Media · Disinformation · Soci
 **[UPV/EHU Profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
 
 ---
-## Academic profile
 
-Simón Peña-Fernández is Full Professor of Journalism at the **University of the Basque Country (UPV/EHU)**.
+## Research profile
 
-His research focuses on the intersection of **artificial intelligence, journalism, disinformation and digital media ecosystems**, with particular attention to the impact of artificial intelligence and algorithms on news media, journalists and audiences.
+**Simón Peña-Fernández** is Full Professor of Journalism at the **University of the Basque Country (UPV/EHU)** and a researcher in the **Gureiker Research Group**.
 
-His current research addresses **generative artificial intelligence in journalism, algorithmic polarisation, disinformation, hate speech, social media and digital news consumption**.
+His research focuses on the intersection of **artificial intelligence, journalism, disinformation and digital media ecosystems**.
+
+His current research examines the impact of **artificial intelligence and algorithms on news media, journalists and audiences**, including generative AI in journalism, algorithmic polarisation, disinformation, hate speech and news consumption on social media.
 
 Since 2012, he has published more than one hundred scholarly articles and has participated in around thirty publicly funded competitive research projects.
 
-## Research areas
+## Research expertise
 
-- Artificial Intelligence and Journalism
-- Generative Artificial Intelligence
-- Digital Journalism and Online Media
-- Disinformation
-- Algorithmic Polarisation
-- Social Media
-- Hate Speech and Online Harassment
-- Media Audiences
-- Political Communication
-- Digital Communication
+- **Artificial Intelligence and Journalism**
+- **Generative Artificial Intelligence**
+- **Digital Journalism and Online Media**
+- **Disinformation**
+- **Algorithmic Polarisation**
+- **Social Media and News Consumption**
+- **Hate Speech and Online Harassment**
+- **Media Audiences**
+- **Political Communication**
 
 ## Current research
 
@@ -49,9 +50,7 @@ Since 2012, he has published more than one hundred scholarly articles and has pa
 
 *Impacto de la inteligencia artificial y los algoritmos en los cibermedios, los profesionales y las audiencias*
 
-Spanish Ministry of Science, Innovation and Universities, 2023–2026.
-
-Research on the impact of artificial intelligence and algorithms on digital news media, journalists and audiences.
+Spanish Ministry of Science, Innovation and Universities · 2023–2026
 
 ### Social Media, Disinformation and Artificial Intelligence
 
@@ -59,104 +58,67 @@ Research on the impact of artificial intelligence and algorithms on digital news
 
 *Social Media, Disinformation and AI: Strategies and tools to prevent polarisation and foster democratic values*
 
-University of the Basque Country (UPV/EHU), 2026–2027.
+University of the Basque Country (UPV/EHU) · 2026–2027
 
-Research on social media, artificial intelligence and disinformation, with particular attention to algorithmic polarisation and democratic values.
+**[View all research projects →](/spenafernandez/projects/)**
 
-## Selected research on Artificial Intelligence and Journalism
+## Selected publications
 
-**Journalists’ Perceptions of Artificial Intelligence and Disinformation Risks**  
-Peña-Alonso, U., Peña-Fernández, S., & Meso-Ayerdi, K. (2025).  
+### Journalists’ Perceptions of Artificial Intelligence and Disinformation Risks
+
+Peña-Alonso, U., **Peña-Fernández, S.**, & Meso-Ayerdi, K. (2025).  
 *Journalism and Media, 6*(3), 133.  
-https://doi.org/10.3390/journalmedia6030133
+[DOI](https://doi.org/10.3390/journalmedia6030133)
 
-**News with artificial intelligence: Perception and Impact on Audiences and Professionals after a Radio Experiment**  
-Orbegozo-Terradillos, J., Larrondo-Ureta, A., & Peña-Fernández, S. (2025).  
-*Revista de Comunicación, 24*(2), 321–339.  
-https://doi.org/10.26441/RC24.2-2025-3891
+### Shooting the Messenger? Harassment and Hate Speech Directed at Journalists on Social Media
 
-**La inteligencia artificial como motor de innovación en los medios: apropiación técnica, cautela informativa**  
-Sarrionandia, B., Peña-Fernández, S., & Pérez-Dasilva, J. A. (2025).  
-*Estudios sobre el Mensaje Periodístico, 31*(3), 603–613.  
-https://doi.org/10.5209/emp.102961
-
-**The Influence of AI in the Media Work Force: How Companies Use an Array of Legal Remedies**  
-Díaz-Noci, J., Peña-Fernández, S., Meso-Ayerdi, K., & Larrondo-Ureta, A. (2024).  
-*Tripodos, 55.*  
-https://doi.org/10.51698/tripodos.2024.55.03
-
-**Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media**  
-Peña-Fernández, S., Meso-Ayerdi, K., Larrondo-Ureta, A., & Díaz-Noci, J. (2023).  
-*Profesional de la información, 32*(2).  
-https://doi.org/10.3145/epi.2023.mar.27
-
-## Research on Disinformation, Social Media and Polarisation
-
-**Shooting the Messenger? Harassment and Hate Speech Directed at Journalists on Social Media**  
-Peña-Fernández, S., Peña-Alonso, U., Larrondo-Ureta, A., & Morales-i-Gras, J. (2025).  
+**Peña-Fernández, S.**, Peña-Alonso, U., Larrondo-Ureta, A., & Morales-i-Gras, J. (2025).  
 *Societies, 15*(5), 130.  
-https://doi.org/10.3390/soc15050130
+[DOI](https://doi.org/10.3390/soc15050130)
 
-**Feminism, gender identity and polarization in TikTok and Twitter**  
-Peña-Fernández, S., Larrondo-Ureta, A., & Morales-i-Gras, J. (2023).  
+### Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media
+
+**Peña-Fernández, S.**, Meso-Ayerdi, K., Larrondo-Ureta, A., & Díaz-Noci, J. (2023).  
+*Profesional de la información, 32*(2).  
+[DOI](https://doi.org/10.3145/epi.2023.mar.27)
+
+### Feminism, gender identity and polarization in TikTok and Twitter
+
+**Peña-Fernández, S.**, Larrondo-Ureta, A., & Morales-i-Gras, J. (2023).  
 *Comunicar, 75*, 49–60.  
-https://doi.org/10.3916/C75-2023-04
+[DOI](https://doi.org/10.3916/C75-2023-04)
 
-**Current affairs on TikTok. Virality and entertainment for digital natives**  
-Peña-Fernández, S., Larrondo-Ureta, A., & Morales-i-Gras, J. (2022).  
+### Current affairs on TikTok. Virality and entertainment for digital natives
+
+**Peña-Fernández, S.**, Larrondo-Ureta, A., & Morales-i-Gras, J. (2022).  
 *Profesional de la información, 31*(1).  
-https://doi.org/10.3145/epi.2022.ene.06
+[DOI](https://doi.org/10.3145/epi.2022.ene.06)
 
-## Research leadership
+**[View selected publications →](/spenafernandez/publications/)**
 
-Simón Peña-Fernández has served as Principal Investigator of competitive research projects on artificial intelligence, journalism, digital media, disinformation, social media and polarisation.
+## Research leadership and international activity
 
-His research leadership includes **PID2022-138391OB-I00**, **EHU-G25/05**, **COLAB22/11**, **RED2022-134211-T (CIBERCOM)**, **TED2021-130810B-C22**, and **RTI2018-095775-B-C41**.
+Simón Peña-Fernández has led competitive research projects and networks on **artificial intelligence, digital journalism, disinformation, polarisation and social media**, including **PID2022-138391OB-I00, TED2021-130810B-C22, RED2022-134211-T (CIBERCOM), COLAB22/11 and RTI2018-095775-B-C41**.
 
-He has also participated in European research projects including **GINI**, **BEYOND** and **Social Innovation Community (SIC)**.
+His international research activity includes participation in European projects such as **GINI, BEYOND and Social Innovation Community (SIC)**.
 
 ## Knowledge transfer
 
-Research and knowledge-transfer activities include collaborations with the **Basque Parliament**, **Emakunde – Basque Institute for Women**, and **Euskal Irrati Telebista (EITB)**.
+Research and knowledge-transfer activities include collaborations with **Euskal Irrati Telebista (EITB), the Basque Parliament and Emakunde – Basque Institute for Women**.
 
-Simón Peña-Fernández was also part of the team that drafted the **Decalogue for the Ethical Use of Artificial Intelligence in the Media**, published by the Basque Association of Journalists in 2024.
-
-## Academic and editorial activity
-
-- Editor of *Mediatika*
-- Editorial Board member of *Media Watch*
-- Editorial Board member of *Journalism and Media*
-- Editorial Board member of *Communication & Society*
-- Research project evaluator for ANEP and AEI
-- Supervisor of seven PhD theses
-- Coordinator of the Master's Degree in Social Communication at UPV/EHU
-
-## Academic profiles
-
-**ORCID:** https://orcid.org/0000-0003-2080-3241
-
-**University:** University of the Basque Country (UPV/EHU)
-
-**Department:** Journalism
-
-**Research group:** Gureiker
-
-**Research group website:** http://www.gureiker.info
-
-**Email:** simon.pena@ehu.eus
-
----
+He was also part of the team that drafted the **Decalogue for the Ethical Use of Artificial Intelligence in the Media**, published by the Basque Association of Journalists in 2024.
 
 ## Academic profiles and identifiers
 
-- [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)
-- [ORCID 0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)
-- Scopus Author ID: **55580980400**
-- Web of Science Researcher ID: **C-4850-2013**
-- [GitHub](https://github.com/spenafernandez)
+- **[UPV/EHU institutional profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
+- **[ORCID 0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)**
+- **Scopus Author ID:** 55580980400
+- **Web of Science Researcher ID:** C-4850-2013
+- **[GitHub](https://github.com/spenafernandez)**
+- **Email:** simon.pena@ehu.eus
 
-## Explore
+---
 
-[Academic CV](/spenafernandez/cv/) ·
-[Selected Publications](/spenafernandez/publications/) ·
-[Research Projects](/spenafernandez/projects/)
+**[Academic CV](/spenafernandez/cv/)** ·
+**[Publications](/spenafernandez/publications/)** ·
+**[Research Projects](/spenafernandez/projects/)**
