@@ -9,7 +9,15 @@ description: "Academic profile of Simón Peña-Fernández, Full Professor of Jou
 **Full Professor of Journalism at the University of the Basque Country (UPV/EHU)**
 
 Artificial Intelligence · Journalism · Digital Media · Disinformation · Social Media · Algorithmic Polarisation
+---
 
+**[Academic CV](/spenafernandez/cv/)** ·
+**[Publications](/spenafernandez/publications/)** ·
+**[Research Projects](/spenafernandez/projects/)** ·
+**[ORCID](https://orcid.org/0000-0003-2080-3241)** ·
+**[UPV/EHU Profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
+
+---
 ## Academic profile
 
 Simón Peña-Fernández is Full Professor of Journalism at the **University of the Basque Country (UPV/EHU)**.
