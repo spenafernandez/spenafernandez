@@ -14,7 +14,7 @@ locale: "en-US"
 
 author:
   name: "Simón Peña-Fernández"
-  avatar: "/spenafernandez/assets/images/profile.png"
+  avatar: "/assets/images/profile.png"
   bio: "Full Professor of Journalism · Artificial Intelligence, Digital Journalism & Disinformation"
   location: "UPV/EHU · Bilbao, Spain"
   links:
