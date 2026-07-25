@@ -1,5 +1,3 @@
-# simon-pena-fernandez
-Academic profile and research of Simón Peña-Fernández | Artificial Intelligence, Journalism, Disinformation and Digital Media
 # Simón Peña-Fernández
 
 **Full Professor of Journalism | University of the Basque Country (UPV/EHU)**
