@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+author_profile: true
+classes: wide
 title: "Research Projects | Simón Peña-Fernández"
 description: "Research projects led by Simón Peña-Fernández on artificial intelligence, journalism, disinformation, digital media, social media and polarisation."
 permalink: /projects/
