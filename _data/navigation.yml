@@ -1,12 +1,12 @@
 main:
   - title: "About"
-    url: /spenafernandez/
+    url: /
 
   - title: "Publications"
-    url: /spenafernandez/publications/
+    url: /publications/
 
   - title: "Research Projects"
-    url: /spenafernandez/projects/
+    url: /projects/
 
   - title: "Academic CV"
-    url: /spenafernandez/cv/
+    url: /cv/
