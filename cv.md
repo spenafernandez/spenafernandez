@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+author_profile: true
+classes: wide
 title: "Academic CV | Simón Peña-Fernández"
 description: "Academic curriculum vitae of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU)."
 permalink: /cv/
