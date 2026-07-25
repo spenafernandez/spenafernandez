@@ -1,9 +1,47 @@
-title: "Simón Peña-Fernández | Journalism, Artificial Intelligence and Digital Media"
+title: "Simón Peña-Fernández"
+description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media and algorithmic polarisation."
 
-description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media, social media and algorithmic polarisation."
+url: "https://spenafernandez.github.io"
+baseurl: "/spenafernandez"
 
-author: "Simón Peña-Fernández"
+repository: "spenafernandez/spenafernandez"
 
-lang: en
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
-theme: jekyll-theme-minimal
+minimal_mistakes_skin: "air"
+
+locale: "en-US"
+
+author:
+  name: "Simón Peña-Fernández"
+  bio: "Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation and digital media."
+  location: "University of the Basque Country (UPV/EHU)"
+  links:
+    - label: "UPV/EHU"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-2080-3241"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=xYKry48AAAAJ"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spenafernandez"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
