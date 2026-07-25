@@ -7,9 +7,8 @@ description: "Selected scholarly publications by Simón Peña-Fernández on arti
 permalink: /publications/
 ---
 
-# Selected Publications
+# Publications
 
-Selected scholarly publications by **Simón Peña-Fernández**, Full Professor of Journalism at the University of the Basque Country (UPV/EHU).
 
 Research areas include **artificial intelligence and journalism, generative AI, disinformation, digital media, social media, algorithmic polarisation, media audiences and political communication**.
 
