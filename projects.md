@@ -7,9 +7,8 @@ description: "Research projects led by Simón Peña-Fernández on artificial int
 permalink: /projects/
 ---
 
-# Research Projects
+# Projects
 
-Research projects led by or involving **Simón Peña-Fernández**, Full Professor of Journalism at the University of the Basque Country (UPV/EHU).
 
 His research leadership focuses on **artificial intelligence, journalism, digital media, disinformation, social media, political communication and algorithmic polarisation**.
 
