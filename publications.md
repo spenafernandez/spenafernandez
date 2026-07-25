@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+author_profile: true
+classes: wide
 title: "Publications | Simón Peña-Fernández"
 description: "Selected scholarly publications by Simón Peña-Fernández on artificial intelligence, journalism, disinformation, digital media, social media and algorithmic polarisation."
 permalink: /publications/
