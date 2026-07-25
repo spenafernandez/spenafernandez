@@ -6,20 +6,50 @@ title: "Simón Peña-Fernández | Journalism, Artificial Intelligence and Digita
 description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media and algorithmic polarisation."
 ---
 
+<div class="academic-hero">
 
-**Full Professor of Journalism at the University of the Basque Country (UPV/EHU)**
+  <div class="hero-text">
 
-Artificial Intelligence · Journalism · Digital Media · Disinformation · Social Media · Algorithmic Polarisation
+    <p class="hero-kicker">
+      JOURNALISM · ARTIFICIAL INTELLIGENCE · DIGITAL MEDIA
+    </p>
 
----
+    <h1>Simón Peña-Fernández</h1>
 
-**[Academic CV](/spenafernandez/cv/)** ·
-**[Publications](/spenafernandez/publications/)** ·
-**[Research Projects](/spenafernandez/projects/)** ·
-**[ORCID](https://orcid.org/0000-0003-2080-3241)** ·
-**[UPV/EHU Profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
+    <h2>Full Professor of Journalism</h2>
 
----
+    <p class="hero-affiliation">
+      University of the Basque Country (UPV/EHU)
+    </p>
+
+    <p class="hero-description">
+      Researching the transformation of journalism and digital media,
+      with a particular focus on artificial intelligence, disinformation,
+      social media and algorithmic polarisation.
+    </p>
+
+    <div class="hero-buttons">
+      <a href="{{ '/publications/' | relative_url }}" class="hero-button">
+        Publications
+      </a>
+
+      <a href="{{ '/projects/' | relative_url }}" class="hero-button hero-button-secondary">
+        Research Projects
+      </a>
+
+      <a href="{{ '/cv/' | relative_url }}" class="hero-button hero-button-secondary">
+        Academic CV
+      </a>
+    </div>
+
+  </div>
+
+  <div class="hero-image">
+    <img src="{{ '/assets/images/profile.png' | relative_url }}"
+         alt="Simón Peña-Fernández">
+  </div>
+
+</div>
 
 ## Research profile
 
@@ -29,7 +59,7 @@ His research focuses on the intersection of **artificial intelligence, journalis
 
 His current research examines the impact of **artificial intelligence and algorithms on news media, journalists and audiences**, including generative AI in journalism, algorithmic polarisation, disinformation, hate speech and news consumption on social media.
 
-Since 2004, he has published more than one hundred scholarly articles and has participated in around thirty publicly funded competitive research projects.
+His research has resulted in an extensive body of scholarly publications on digital journalism, artificial intelligence, disinformation, social media and media audiences, developed through sustained participation in publicly funded competitive research projects.
 
 ## Research expertise
 
@@ -61,7 +91,7 @@ Spanish Ministry of Science, Innovation and Universities · 2023–2026
 
 University of the Basque Country (UPV/EHU) · 2026–2027
 
-**[View all research projects →](/spenafernandez/projects/)**
+**[View all research projects →]({{ '/projects/' | relative_url }})**
 
 ## Selected publications
 
@@ -95,7 +125,7 @@ Peña-Alonso, U., **Peña-Fernández, S.**, & Meso-Ayerdi, K. (2025).
 *Profesional de la información, 31*(1).  
 [DOI](https://doi.org/10.3145/epi.2022.ene.06)
 
-**[View selected publications →](/spenafernandez/publications/)**
+**[View all publications →]({{ '/publications/' | relative_url }})**
 
 ## Research leadership and international activity
 
@@ -121,6 +151,6 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 
 ---
 
-**[Academic CV](/spenafernandez/cv/)** ·
-**[Publications](/spenafernandez/publications/)** ·
-**[Research Projects](/spenafernandez/projects/)**
+**[Academic CV]({{ '/cv/' | relative_url }})** ·
+**[Publications]({{ '/publications/' | relative_url }})** ·
+**[Research Projects]({{ '/projects/' | relative_url }})**
