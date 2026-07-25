@@ -112,6 +112,7 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 
 - **[UPV/EHU institutional profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
 - **[ORCID 0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)**
+- **[Google Scholar](https://scholar.google.com/citations?user=xYKry48AAAAJ)**
 - **Scopus Author ID:** 55580980400
 - **Web of Science Researcher ID:** C-4850-2013
 - **[GitHub](https://github.com/spenafernandez)**
