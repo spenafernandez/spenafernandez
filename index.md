@@ -144,3 +144,19 @@ Simón Peña-Fernández was also part of the team that drafted the **Decalogue f
 **Research group website:** http://www.gureiker.info
 
 **Email:** simon.pena@ehu.eus
+
+---
+
+## Academic profiles and identifiers
+
+- [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)
+- [ORCID 0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)
+- Scopus Author ID: **55580980400**
+- Web of Science Researcher ID: **C-4850-2013**
+- [GitHub](https://github.com/spenafernandez)
+
+## Explore
+
+[Academic CV](/spenafernandez/cv/) ·
+[Selected Publications](/spenafernandez/publications/) ·
+[Research Projects](/spenafernandez/projects/)
