@@ -28,7 +28,7 @@ His research focuses on the intersection of **artificial intelligence, journalis
 
 His current research examines the impact of **artificial intelligence and algorithms on news media, journalists and audiences**, including generative AI in journalism, algorithmic polarisation, disinformation, hate speech and news consumption on social media.
 
-Since 2012, he has published more than one hundred scholarly articles and has participated in around thirty publicly funded competitive research projects.
+Since 2004, he has published more than one hundred scholarly articles and has participated in around thirty publicly funded competitive research projects.
 
 ## Research expertise
 
