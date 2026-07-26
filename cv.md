@@ -89,7 +89,6 @@ My international research activity includes participation in European projects r
 
 Selected Horizon 2020 projects include:
 
-- **GINI — Growing Inequality: a Novel Integration of Transformations Research**
 - **BEYOND — Inclusive Futures for Europe Beyond the Impacts of Industries 4.0 and Digital Disruption**
 - **Social Innovation Community (SIC)**
 
