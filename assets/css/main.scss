@@ -4,38 +4,88 @@
 
 @charset "utf-8";
 
-/* Minimal Mistakes */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 
 /* =========================================================
-   SIMÓN PEÑA-FERNÁNDEZ — ACADEMIC WEBSITE
-   Custom visual layer
+   CUSTOM ACADEMIC DESIGN
    ========================================================= */
+
+:root {
+  --ink: #1f2933;
+  --muted: #687585;
+  --accent: #315f86;
+  --accent-dark: #244a69;
+  --soft-blue: #f4f8fb;
+  --soft-grey: #f7f8fa;
+  --border: #e3e8ec;
+}
 
 
 /* ---------- GENERAL ---------- */
 
+html {
+  font-size: 15px;
+}
+
+body {
+  color: var(--ink);
+}
+
 .page {
-  max-width: 1200px;
+  max-width: 1180px;
 }
 
 .page__content {
-  font-size: 1em;
-  line-height: 1.7;
+  font-size: 0.96rem;
+  line-height: 1.65;
+}
+
+.page__content p {
+  margin-bottom: 1.1rem;
 }
 
 .page__content h2 {
-  margin-top: 2.6em;
-  padding-bottom: 0.4em;
-  border-bottom: 1px solid #e5e7eb;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+
+  font-size: 1.35rem;
   font-weight: 650;
+
+  border-bottom: 1px solid var(--border);
 }
 
 .page__content h3 {
-  margin-top: 1.7em;
-  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+
+  font-size: 1.05rem;
+  font-weight: 650;
+
+  color: var(--accent-dark);
+}
+
+
+/* ---------- TOP NAV ---------- */
+
+.site-title {
+  display: none !important;
+}
+
+.masthead {
+  border-bottom: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  font-size: 0.88rem;
+  font-weight: 550;
 }
 
 
@@ -43,75 +93,78 @@
 
 .academic-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.55fr) minmax(220px, 0.65fr);
+  grid-template-columns: minmax(0, 1.4fr) minmax(210px, 0.55fr);
   gap: 3rem;
   align-items: center;
 
-  margin: 0 0 3rem 0;
-  padding: 2.2rem 0 3rem 0;
+  margin-bottom: 3rem;
+  padding: 2.5rem 2.7rem;
 
-  border-bottom: 1px solid #e5e7eb;
+  background:
+    linear-gradient(
+      135deg,
+      #f7fafc 0%,
+      #eef4f8 100%
+    );
+
+  border: 1px solid var(--border);
+  border-radius: 18px;
 }
 
 .hero-text {
-  max-width: 760px;
+  max-width: 720px;
 }
 
 .hero-kicker {
-  margin-bottom: 1rem;
+  margin: 0 0 0.8rem;
 
-  font-size: 0.68rem;
-  font-weight: 700;
-  line-height: 1.4;
+  font-size: 0.62rem;
+  font-weight: 750;
+  letter-spacing: 0.13em;
 
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-
-  color: #58748d;
+  color: var(--accent);
 }
 
 .academic-hero h1 {
-  margin: 0 0 0.8rem 0;
+  margin: 0 0 0.65rem;
 
-  font-size: clamp(2.1rem, 3.5vw, 3.2rem);
+  font-size: clamp(1.9rem, 3vw, 2.6rem);
   line-height: 1.08;
-  letter-spacing: -0.035em;
-  font-weight: 700;
+  letter-spacing: -0.025em;
 
-  color: #17212b;
+  color: #18222d;
 }
 
 .academic-hero h2 {
-  margin: 0 0 0.3rem 0;
+  margin: 0 0 0.25rem;
   padding: 0;
   border: 0;
 
-  font-size: 1.2rem;
-  line-height: 1.3;
-  font-weight: 500;
+  font-size: 1.05rem;
+  font-weight: 600;
 
-  color: #25384a;
+  color: #344a5f;
 }
 
 .hero-affiliation {
-  margin: 0 0 1.4rem 0;
+  margin-bottom: 1rem;
 
-  font-size: 0.95rem;
-  color: #64748b;
+  font-size: 0.9rem;
+  color: var(--muted);
 }
 
 .hero-description {
-  max-width: 680px;
-  margin-bottom: 1.7rem;
+  max-width: 650px;
+  margin: 1.25rem 0 1.4rem;
 
-  font-size: 1rem;
+  font-size: 0.93rem;
   line-height: 1.6;
 
-  color: #475569;
+  color: #506171;
 }
 
 
-/* ---------- HERO PHOTO ---------- */
+/* ---------- HERO IMAGE ---------- */
 
 .hero-image {
   display: flex;
@@ -121,17 +174,61 @@
 
 .hero-image img {
   width: 100%;
-  max-width: 260px;
+  max-width: 220px;
   aspect-ratio: 1 / 1;
 
   object-fit: cover;
-  object-position: center;
 
   border-radius: 16px;
 
   box-shadow:
-    0 16px 38px rgba(15, 23, 42, 0.10),
-    0 4px 10px rgba(15, 23, 42, 0.05);
+    0 16px 32px rgba(35, 56, 74, 0.10),
+    0 3px 8px rgba(35, 56, 74, 0.05);
+}
+
+
+/* ---------- ACADEMIC ICONS ---------- */
+
+.hero-socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+
+  margin: 0.8rem 0 0;
+}
+
+.hero-socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 32px;
+  height: 32px;
+
+  border: 1px solid #d8e0e6;
+  border-radius: 50%;
+
+  background: #ffffff;
+
+  color: #506b82 !important;
+  font-size: 1rem;
+
+  text-decoration: none !important;
+
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.hero-socials a:hover {
+  transform: translateY(-2px);
+
+  color: var(--accent-dark) !important;
+  border-color: #b8c9d6;
+
+  box-shadow: 0 4px 10px rgba(49, 95, 134, 0.10);
 }
 
 
@@ -140,98 +237,99 @@
 .hero-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.7rem;
+  gap: 0.6rem;
+
+  margin-top: 1.35rem;
 }
 
 .hero-button {
   display: inline-block;
 
-  padding: 0.68rem 1rem;
+  padding: 0.58rem 0.9rem;
 
-  border: 1px solid #315f86;
-  border-radius: 7px;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
 
-  background: #315f86;
+  background: var(--accent);
   color: #ffffff !important;
 
-  font-size: 0.86rem;
-  font-weight: 600;
-  text-decoration: none !important;
+  font-size: 0.78rem;
+  font-weight: 650;
 
-  transition:
-    transform 0.15s ease,
-    box-shadow 0.15s ease,
-    background 0.15s ease;
+  text-decoration: none !important;
 }
 
 .hero-button:hover {
-  transform: translateY(-1px);
-  background: #274f71;
-
-  box-shadow: 0 6px 16px rgba(49, 95, 134, 0.18);
+  background: var(--accent-dark);
 }
 
 .hero-button-secondary {
-  background: transparent;
-  color: #315f86 !important;
+  background: #ffffff;
+  color: var(--accent) !important;
 }
 
 .hero-button-secondary:hover {
-  background: #f1f6fa;
+  background: #edf4f8;
 }
 
 
-/* ---------- RESEARCH EXPERTISE ---------- */
+/* ---------- CONTENT SECTIONS ---------- */
 
-.page__content ul {
-  margin-top: 1rem;
+.page__content > h2 {
+  position: relative;
 }
 
-.page__content li {
-  margin-bottom: 0.45rem;
+.page__content > h2::before {
+  content: "";
+  display: inline-block;
+
+  width: 4px;
+  height: 1em;
+
+  margin-right: 0.55rem;
+
+  vertical-align: -0.08em;
+
+  background: var(--accent);
+  border-radius: 3px;
+}
+
+
+/* ---------- PROJECT AND PUBLICATION BLOCKS ---------- */
+
+.page__content h3 + p {
+  margin-top: 0;
+}
+
+.page__content h3 {
+  padding-top: 0.2rem;
+}
+
+.page__content hr {
+  margin: 2rem 0;
+
+  border: 0;
+  border-top: 1px solid var(--border);
 }
 
 
 /* ---------- LINKS ---------- */
 
 .page__content a {
+  color: var(--accent-dark);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 
 
-/* ---------- SIDEBAR ---------- */
+/* ---------- LISTS ---------- */
 
-.author__avatar img {
-  border-radius: 12px;
+.page__content ul {
+  padding-left: 1.25rem;
 }
 
-.author__name {
-  font-weight: 650;
-}
-
-.author__bio {
-  line-height: 1.5;
-  color: #586575;
-}
-
-.author__urls {
-  font-size: 0.9em;
-}
-
-
-/* ---------- TOP NAVIGATION ---------- */
-
-.masthead {
-  border-bottom: 1px solid #e7ebef;
-}
-
-.greedy-nav {
-  background: #ffffff;
-}
-
-.greedy-nav a {
-  font-weight: 500;
+.page__content li {
+  margin-bottom: 0.35rem;
 }
 
 
@@ -243,7 +341,7 @@
     grid-template-columns: 1fr;
     gap: 1.8rem;
 
-    padding-top: 1.3rem;
+    padding: 1.8rem;
   }
 
   .hero-image {
@@ -252,127 +350,35 @@
   }
 
   .hero-image img {
-    max-width: 175px;
+    max-width: 150px;
   }
 
   .academic-hero h1 {
-    font-size: 2.35rem;
+    font-size: 2rem;
   }
 }
 
 
 @media (max-width: 600px) {
 
+  html {
+    font-size: 14px;
+  }
+
   .academic-hero {
-    margin-bottom: 2.2rem;
-    padding-bottom: 2.4rem;
+    padding: 1.4rem;
+    border-radius: 12px;
   }
 
   .academic-hero h1 {
-    font-size: 2rem;
-  }
-
-  .academic-hero h2 {
-    font-size: 1.1rem;
-  }
-
-  .hero-description {
-    font-size: 0.95rem;
+    font-size: 1.75rem;
   }
 
   .hero-buttons {
     flex-direction: column;
-    align-items: stretch;
   }
 
   .hero-button {
     text-align: center;
   }
-}
-/* Hide the automatic Minimal Mistakes page title on the home page */
-.page__title {
-  display: none;
-}
-/* Horizontal academic profile links on homepage */
-
-.hero-socials {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem 1rem;
-  margin: 0 0 1.6rem 0;
-  font-size: 0.84rem;
-}
-
-.hero-socials a {
-  color: #4a657d;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.hero-socials a:hover {
-  color: #244e70;
-  text-decoration: underline;
-}
-
-
-/* Homepage without sidebar */
-
-.page {
-  float: none;
-  width: 100%;
-}
-
-.page__inner-wrap {
-  width: 100%;
-}
-
-
-/* Mobile */
-
-@media (max-width: 700px) {
-  .hero-socials {
-    gap: 0.5rem 0.8rem;
-    font-size: 0.8rem;
-  }
-}
-/* Academic profile icons */
-
-.hero-socials {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.8rem 1.25rem;
-  margin: 0.2rem 0 1.7rem 0;
-}
-
-.hero-socials a {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-
-  color: #536b80;
-  font-size: 0.82rem;
-  font-weight: 500;
-
-  text-decoration: none !important;
-}
-
-.hero-socials a i {
-  font-size: 1.15rem;
-  width: 1.2rem;
-  text-align: center;
-}
-
-.hero-socials a:hover {
-  color: #244e70;
-}
-
-@media (max-width: 700px) {
-  .hero-socials {
-    gap: 0.7rem 1rem;
-  }
-}
-/* Hide site name in the top navigation */
-.masthead__inner-wrap .site-title {
-  display: none;
 }
