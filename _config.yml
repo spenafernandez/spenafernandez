@@ -17,29 +17,30 @@ author:
   avatar: "/assets/images/profile.png"
   bio: "Full Professor of Journalism · Artificial Intelligence, Digital Journalism & Disinformation"
   location: "UPV/EHU · Bilbao, Spain"
+
   links:
     - label: "UPV/EHU"
       icon: "fas fa-fw fa-university"
       url: "https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez"
 
     - label: "ORCID"
-      icon: "fas fa-fw fa-id-card"
+      icon: "ai ai-fw ai-orcid"
       url: "https://orcid.org/0000-0003-2080-3241"
 
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
+      icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.com/citations?user=xYKry48AAAAJ"
 
     - label: "Scopus"
-      icon: "fas fa-fw fa-book"
+      icon: "ai ai-fw ai-scopus"
       url: "https://www.scopus.com/authid/detail.uri?authorId=55580980400"
 
     - label: "Web of Science"
-      icon: "fas fa-fw fa-flask"
+      icon: "ai ai-fw ai-clarivate"
       url: "https://www.webofscience.com/wos/author/record/C-4850-2013"
 
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-user-graduate"
+      icon: "ai ai-fw ai-researchgate"
       url: "https://www.researchgate.net/profile/Simon-Pena-Fernandez"
 
     - label: "GitHub"
