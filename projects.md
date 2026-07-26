@@ -16,8 +16,21 @@ His research leadership focuses on **artificial intelligence, journalism, digita
 
 ### Social Media, Disinformation and Artificial Intelligence
 
+**IT1936-26/05**  
+**Principal Investigator:** Simón Peña-Fernández & Ainara Larrondo-Ureta
+
+*Gureiker. Digital Communication and Media Research Group*
+
+Basque Government
+2026–2029  
+Funding: €133,500
+
+**Research areas:** Artificial Intelligence · Social Media · Disinformation · Online Media · Innovation
+
+---
+
 **EHU-G25/05**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Ainhoa Novo-Arbona
 
 *Social Media, Disinformation and AI: Strategies and tools to prevent polarisation and foster democratic values*
 
@@ -32,7 +45,7 @@ Funding: €30,000
 ### Artificial Intelligence, Algorithms and Digital Media
 
 **PID2022-138391OB-I00**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Koldobika Meso-Ayerdi
 
 *Impacto de la inteligencia artificial y los algoritmos en los cibermedios, los profesionales y las audiencias*
 
@@ -47,7 +60,7 @@ Funding: €100,000
 ### Communication, Emotions, Disinformation and Polarisation
 
 **COLAB22/11**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Ainhoa Novo-Arbona
 
 *Communication, emotions and political action. Strategies to combat disinformation and polarization in the digital public sphere*
 
@@ -79,7 +92,7 @@ Research network focused on **online media and digital communication**.
 ### Automated Counter-Narratives against Disinformation and Hate Speech
 
 **TED2021-130810B-C22**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Jaume Suau-Martínez
 
 Research project on automated counter-narratives against **disinformation and hate speech** for journalists and social media.
 
@@ -94,7 +107,7 @@ Funding: €168,245
 ### News, Networks and Users in the Hybrid Media System
 
 **RTI2018-095775-B-C41**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Koldobika Meso-Ayerdi
 
 *Noticias, redes y usuarios en el sistema híbrido de medios*
 
@@ -109,7 +122,7 @@ Funding: €38,115
 ### Parliamentary Discourse, Polarisation and Post-Truth
 
 **COLAB19/19**  
-**Principal Investigator:** Simón Peña-Fernández
+**Principal Investigator:** Simón Peña-Fernández & Rodrigo Agerri-Gascón
 
 *Tools for the analysis of parliamentary discourses: polarization, subjectivity and affectivity in the post-truth era*
 
@@ -124,8 +137,7 @@ Funding: €24,600
 ### Gureiker Research Group
 
 **IT1112**  
-**Principal Investigator:** Simón Peña-Fernández  
-**Co-Principal Investigator:** A. Larrondo-Ureta
+**Principal Investigator:** Simón Peña-Fernández & Ainara Larrondo-Ureta
 
 Basque Government  
 2016–2021  
