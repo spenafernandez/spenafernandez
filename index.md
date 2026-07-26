@@ -217,13 +217,3 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 **[Academic CV]({{ '/cv/' | relative_url }})** ·
 **[Publications]({{ '/publications/' | relative_url }})** ·
 **[Research Projects]({{ '/projects/' | relative_url }})**
-
----
-/* =========================================================
-   HOMEPAGE ONLY
-   Hide Minimal Mistakes automatic page title
-   ========================================================= */
-
-.home-page .page__title {
-  display: none !important;
-}
