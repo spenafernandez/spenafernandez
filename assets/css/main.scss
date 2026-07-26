@@ -399,3 +399,8 @@ body {
   padding: 0 !important;
   border-radius: 50% !important;
 }
+/* Make LinkedIn icon black in sidebar */
+.author__urls .fa-linkedin,
+.author__urls .fa-linkedin-in {
+  color: #000 !important;
+}
