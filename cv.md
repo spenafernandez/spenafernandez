@@ -109,9 +109,7 @@ Seven PhD theses supervised.
 
 Four six-year research and knowledge-transfer periods (*sexenios*):
 
-- Research: 2010
-- Research: 2016
-- Research: 2022
+- Research: 2010, 2016 and 2022.
 - Knowledge Transfer: 2017
 
 ## Academic Leadership
