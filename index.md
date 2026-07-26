@@ -205,12 +205,13 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 ## Academic profiles and identifiers
 
 - **[UPV/EHU institutional profile](https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez)**
-- **[ORCID 0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)**
+- **[ORCID](https://orcid.org/0000-0003-2080-3241)** — 0000-0003-2080-3241
 - **[Google Scholar](https://scholar.google.com/citations?user=xYKry48AAAAJ)**
-- **Scopus Author ID:** 55580980400
-- **Web of Science Researcher ID:** C-4850-2013
+- **[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55580980400)** — Author ID: 55580980400
+- **[Web of Science](https://www.webofscience.com/wos/author/record/C-4850-2013)** — Researcher ID: C-4850-2013
+- **[ResearchGate](https://www.researchgate.net/profile/Simon-Pena-Fernandez)**
 - **[GitHub](https://github.com/spenafernandez)**
-- **Email:** simon.pena@ehu.eus
+- **[Email](mailto:simon.pena@ehu.eus)** — simon.pena@ehu.eus
 
 ---
 
