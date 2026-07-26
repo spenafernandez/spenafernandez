@@ -72,14 +72,15 @@ My research has appeared in journals including *Journalism and Media*, *Media an
 
 I have served as Principal Investigator or coordinator of research projects and networks including:
 
+- **IT1936-26** — Gureiker Research Group (2026–2029)
 - **EHU-G25/05** — Social Media, Disinformation and AI (2026–2027)
 - **PID2022-138391OB-I00** — Artificial Intelligence and Algorithms in Digital Media, Professionals and Audiences (2023–2026)
 - **COLAB22/11** — Communication, Emotions, Political Action, Disinformation and Polarisation (2023–2025)
-- **RED2022-134211-T / CIBERCOM** — Online Media and Digital Communication Research Network (2023–2024)
+- **RED2022-134211-T** — Online Media and Digital Communication Research Network (CIBERCOM) (2023–2024)
 - **TED2021-130810B-C22** — Automated Counter-Narratives against Disinformation and Hate Speech (2022–2024)
 - **RTI2018-095775-B-C41** — News, Networks and Users in the Hybrid Media System (2019–2022)
 - **COLAB19/19** — Parliamentary Discourse, Polarisation and Post-Truth (2020–2021)
-- **IT1112** — Gureiker Research Group (2016–2021)
+- **IT1112-16** — Gureiker Research Group (2016–2021)
 
 For detailed information, see [Research Projects](/spenafernandez/projects/).
 
@@ -102,7 +103,7 @@ See [Selected Publications](/spenafernandez/publications/).
 
 ## PhD Supervision
 
-**Seven PhD theses supervised.**
+Seven PhD theses supervised.
 
 ## Research Recognition
 
