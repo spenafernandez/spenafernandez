@@ -14,7 +14,7 @@ His research leadership focuses on **artificial intelligence, journalism, digita
 
 ## Principal Investigator
 
-### Social Media, Disinformation and Artificial Intelligence
+### Gureiker
 
 **IT1936-26/05**  
 **Principal Investigator:** Simón Peña-Fernández & Ainara Larrondo-Ureta
@@ -28,6 +28,8 @@ Funding: €133,500
 **Research areas:** Artificial Intelligence · Social Media · Disinformation · Online Media · Innovation
 
 ---
+
+### Social Media, Disinformation and Artificial Intelligence
 
 **EHU-G25/05**  
 **Principal Investigator:** Simón Peña-Fernández & Ainhoa Novo-Arbona
