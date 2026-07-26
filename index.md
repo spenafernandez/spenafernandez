@@ -117,15 +117,15 @@ His research has resulted in an extensive body of scholarly publications on digi
 
 ## Research expertise
 
-- **Artificial Intelligence and Journalism**
-- **Generative Artificial Intelligence**
-- **Digital Journalism and Online Media**
-- **Disinformation**
-- **Algorithmic Polarisation**
-- **Social Media and News Consumption**
-- **Hate Speech and Online Harassment**
-- **Media Audiences**
-- **Political Communication**
+- *Artificial Intelligence and Journalism*
+- *Generative Artificial Intelligence*
+- *Digital Journalism and Online Media*
+- *Disinformation*
+- *Algorithmic Polarisation*
+- *Social Media and News Consumption*
+- *Hate Speech and Online Harassment*
+- *Media Audiences*
+- *Political Communication*
 
 
 ## Current research
