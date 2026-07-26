@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 classes: wide
 title: "Simón Peña-Fernández | Journalism, Artificial Intelligence and Digital Media"
 description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media and algorithmic polarisation."
