@@ -193,7 +193,7 @@ Peña-Alonso, U., **Peña-Fernández, S.**, & Meso-Ayerdi, K. (2025).
 
 Simón Peña-Fernández has led competitive research projects and networks on **artificial intelligence, digital journalism, disinformation, polarisation and social media**, including **PID2022-138391OB-I00, TED2021-130810B-C22, RED2022-134211-T (CIBERCOM), COLAB22/11 and RTI2018-095775-B-C41**.
 
-His international research activity includes participation in European projects such as **GINI, BEYOND and Social Innovation Community (SIC)**.
+His international research activity includes participation in European projects such as **BEYOND and Social Innovation Community (SIC)**.
 
 
 ## Knowledge transfer
