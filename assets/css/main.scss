@@ -386,3 +386,16 @@ body {
 .page__title {
   display: none !important;
 }
+/* Remove frame around sidebar profile photo */
+.author__avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+/* Clean sidebar profile photo */
+.author__avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+}
