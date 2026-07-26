@@ -135,21 +135,6 @@ Funding: €89,498
 
 ## Participation in European Research Projects
 
-### GINI — Growing Inequality: a Novel Integration of Transformations Research
-
-**Horizon 2020 — 101004494**
-
-Researcher  
-European Commission  
-2021–2025
-
-Total funding: €3 million  
-UPV/EHU funding: €232,272
-
-**Research areas:** Inequality · Social Transformation · Digital Transformation
-
----
-
 ### BEYOND — Inclusive Futures for Europe Beyond the Impacts of Industries 4.0 and Digital Disruption
 
 **Horizon 2020 — 822296**
