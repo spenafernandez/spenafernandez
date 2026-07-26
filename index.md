@@ -214,6 +214,10 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 - **[GitHub](https://github.com/spenafernandez)**
 - **[Email](mailto:simon.pena@ehu.eus)** — simon.pena@ehu.eus
 
+**[Academic CV]({{ '/cv/' | relative_url }})** ·
+**[Publications]({{ '/publications/' | relative_url }})** ·
+**[Research Projects]({{ '/projects/' | relative_url }})**
+
 ---
 /* =========================================================
    HOMEPAGE ONLY
@@ -223,7 +227,3 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 .home-page .page__title {
   display: none !important;
 }
-
-**[Academic CV]({{ '/cv/' | relative_url }})** ·
-**[Publications]({{ '/publications/' | relative_url }})** ·
-**[Research Projects]({{ '/projects/' | relative_url }})**
