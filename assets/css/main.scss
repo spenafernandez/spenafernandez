@@ -289,3 +289,7 @@
     text-align: center;
   }
 }
+/* Hide the automatic Minimal Mistakes page title on the home page */
+.page__title {
+  display: none;
+}
