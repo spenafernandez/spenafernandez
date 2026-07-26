@@ -2,9 +2,9 @@ title: "Simón Peña-Fernández"
 description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media and algorithmic polarisation."
 
 url: "https://spenafernandez.github.io"
-baseurl: "/spenafernandez"
+baseurl: ""
 
-repository: "spenafernandez/spenafernandez"
+repository: "spenafernandez/spenafernandez.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
