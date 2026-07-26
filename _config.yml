@@ -42,10 +42,10 @@ author:
     - label: "ResearchGate"
       icon: "ai ai-fw ai-researchgate"
       url: "https://www.researchgate.net/profile/Simon-Pena-Fernandez"
-
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/spenafernandez"
+      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/simonpenafernandez"
 
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
