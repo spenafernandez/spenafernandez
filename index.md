@@ -1,7 +1,9 @@
 ---
 layout: single
 author_profile: false
-classes: wide
+classes: 
+  - wide
+  - home-page
 title: "Simón Peña-Fernández | Journalism, Artificial Intelligence and Digital Media"
 description: "Academic profile of Simón Peña-Fernández, Full Professor of Journalism at the University of the Basque Country (UPV/EHU). Research on artificial intelligence, journalism, disinformation, digital media and algorithmic polarisation."
 ---
@@ -214,6 +216,14 @@ He was also part of the team that drafted the **Decalogue for the Ethical Use of
 - **[Email](mailto:simon.pena@ehu.eus)** — simon.pena@ehu.eus
 
 ---
+/* =========================================================
+   HOMEPAGE ONLY
+   Hide Minimal Mistakes automatic page title
+   ========================================================= */
+
+.home-page .page__title {
+  display: none !important;
+}
 
 **[Academic CV]({{ '/cv/' | relative_url }})** ·
 **[Publications]({{ '/publications/' | relative_url }})** ·
