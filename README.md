@@ -6,7 +6,7 @@ Researcher in **Artificial Intelligence, Journalism, Digital Media, Disinformati
 
 ## About me
 
-I am Full Professor of Journalism at the University of the Basque Country (UPV/EHU), where I conduct research on the intersection of **artificial intelligence, journalism, disinformation and digital media ecosystems**.
+I am Full Professor of Journalism at the University of the Basque Country (UPV/EHU), where I conduct research on the intersection of **artificial intelligence, journalism, disinformation and digital media ecosystems**. 
 
 My current research focuses particularly on the impact of artificial intelligence and algorithms on news media, journalists and audiences; the adoption of generative AI in journalism; disinformation and hate speech; algorithmic polarisation; and news consumption on social media.
 
