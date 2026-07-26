@@ -21,88 +21,51 @@ description: "Academic profile of Simón Peña-Fernández, Full Professor of Jou
     <p class="hero-affiliation">
       University of the Basque Country (UPV/EHU)
     </p>
-    <div class="hero-socials">
+  <div class="hero-socials">
 
   <a href="https://orcid.org/0000-0003-2080-3241"
      title="ORCID"
      aria-label="ORCID">
     <i class="ai ai-orcid"></i>
-    <span>ORCID</span>
   </a>
 
   <a href="https://scholar.google.com/citations?user=xYKry48AAAAJ"
      title="Google Scholar"
      aria-label="Google Scholar">
     <i class="ai ai-google-scholar"></i>
-    <span>Google Scholar</span>
   </a>
 
   <a href="https://www.scopus.com/authid/detail.uri?authorId=55580980400"
      title="Scopus"
      aria-label="Scopus">
     <i class="ai ai-scopus"></i>
-    <span>Scopus</span>
   </a>
 
   <a href="https://www.webofscience.com/wos/author/record/C-4850-2013"
      title="Web of Science"
      aria-label="Web of Science">
     <i class="ai ai-clarivate"></i>
-    <span>Web of Science</span>
   </a>
 
   <a href="https://www.researchgate.net/profile/Simon-Pena-Fernandez"
      title="ResearchGate"
      aria-label="ResearchGate">
     <i class="ai ai-researchgate"></i>
-    <span>ResearchGate</span>
   </a>
 
   <a href="https://github.com/spenafernandez"
      title="GitHub"
      aria-label="GitHub">
     <i class="fab fa-github"></i>
-    <span>GitHub</span>
   </a>
 
   <a href="mailto:simon.pena@ehu.eus"
      title="Email"
      aria-label="Email">
     <i class="fas fa-envelope"></i>
-    <span>Email</span>
   </a>
 
 </div>
-<div class="hero-socials">
-
-  <a href="https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez">
-    UPV/EHU
-  </a>
-
-  <a href="https://orcid.org/0000-0003-2080-3241">
-    ORCID
-  </a>
-
-  <a href="https://scholar.google.com/citations?user=xYKry48AAAAJ">
-    Google Scholar
-  </a>
-
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=55580980400">
-    Scopus
-  </a>
-
-  <a href="https://www.webofscience.com/wos/author/record/C-4850-2013">
-    Web of Science
-  </a>
-
-  <a href="https://github.com/spenafernandez">
-    GitHub
-  </a>
-
-  <a href="mailto:simon.pena@ehu.eus">
-    Email
-  </a>
-
 </div>
     <p class="hero-description">
       Researching the transformation of journalism and digital media,
