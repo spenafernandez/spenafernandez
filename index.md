@@ -55,11 +55,11 @@ description: "Academic profile of Simón Peña-Fernández, Full Professor of Jou
         <i class="ai ai-researchgate"></i>
       </a>
 
-      <a href="https://github.com/spenafernandez"
-         title="GitHub"
-         aria-label="GitHub">
-        <i class="fab fa-github"></i>
-      </a>
+<a href="https://www.linkedin.com/in/simonpenafernandez"
+   title="LinkedIn"
+   aria-label="LinkedIn">
+  <i class="fab fa-linkedin"></i>
+</a>
 
       <a href="mailto:simon.pena@ehu.eus"
          title="Email"
