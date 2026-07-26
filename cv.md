@@ -96,7 +96,7 @@ I am also a member of international research networks in artificial intelligence
 
 ## Publications
 
-Since 2012, I have published more than one hundred scholarly articles, primarily addressing digital transformation in journalism and communication, social media, artificial intelligence, disinformation and audiences.
+Since 2004, I have published more than one hundred scholarly articles, primarily addressing digital transformation in journalism and communication, social media, artificial intelligence, disinformation and audiences.
 
 See [Selected Publications](/spenafernandez/publications/).
 
