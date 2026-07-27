@@ -64,7 +64,7 @@ Current research interests include:
 - Political communication
 - Digital communication
 
-Since 2012, I have published more than one hundred scholarly articles and have participated in around thirty publicly funded competitive research projects.
+Since 2004, I have published more than one hundred scholarly articles and have participated in around thirty publicly funded competitive research projects.
 
 My research has appeared in journals including *Journalism and Media*, *Media and Communication*, *Journal of Communication Management*, *Comunicar* and *Profesional de la Información*.
 
