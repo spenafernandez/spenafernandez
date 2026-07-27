@@ -61,7 +61,6 @@ My research focuses on the intersection of **artificial intelligence, journalism
 Current research interests include:
 
 - Artificial intelligence and journalism
-- Generative artificial intelligence
 - Digital journalism and online media
 - Disinformation
 - Algorithmic polarisation
@@ -70,10 +69,6 @@ Current research interests include:
 - Media audiences
 - Political communication
 - Digital communication
-
-Since 2004, I have published more than one hundred scholarly articles and have participated in around thirty publicly funded competitive research projects.
-
-My research has appeared in journals including *Journalism and Media*, *Media and Communication*, *Journal of Communication Management*, *Comunicar* and *Profesional de la Información*.
 
 ## Research Leadership
 
