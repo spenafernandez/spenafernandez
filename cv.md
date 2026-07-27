@@ -20,6 +20,12 @@ University of the Basque Country (UPV/EHU), Spain
 **ORCID:** https://orcid.org/0000-0003-2080-3241  
 **Email:** simon.pena@ehu.eus
 
+## Academic profile
+
+Simón Peña-Fernández is Full Professor of Journalism at the University of the Basque Country (UPV/EHU) and Co-Principal Investigator of the Gureiker Research Group. His research focuses on artificial intelligence and journalism, digital media, disinformation and media literacy, social media, and audiences. His current research particularly examines the impact of artificial intelligence and algorithms on news organisations, journalism professionals and audiences.
+
+Since 2004, he has published more than 100 scholarly articles and participated in around 30 competitively funded research projects, including European and Spanish national projects. He has also led research and knowledge-transfer projects with public institutions and media organisations.
+
 ## Academic Positions
 
 ### Full Professor
@@ -87,6 +93,8 @@ For detailed information, see [Research Projects](/spenafernandez/projects/).
 ## International Research
 
 My international research activity includes participation in European projects related to innovation and digital transformation.
+
+I have participated in eight European research projects, including Horizon 2020 and Erasmus+ projects in the fields of digital transformation, social innovation, journalism and communication.
 
 Selected Horizon 2020 projects include:
 
