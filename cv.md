@@ -171,25 +171,17 @@ I was also part of the team that drafted the **Decalogue for the Ethical Use of 
 
 ## Media and Public Engagement
 
-Regular contributor to Basque media on issues related to **artificial intelligence and communication**, including EITB, SER, COPE and Naiz.
+Regular contributor to Basque media on issues related to **artificial intelligence and communication**, including EITB, SER, COPE, Naiz, etc.
 
-## Academic Profiles
-
-**University of the Basque Country (UPV/EHU)**  
-https://www.ehu.eus/es/web/departamento-periodismo/simon-pena-fernandez
-
-**ORCID**  
-https://orcid.org/0000-0003-2080-3241
-
-**Scopus Author ID**  
-55580980400
-
-**Web of Science Researcher ID**  
-C-4850-2013
+## Research Group and Networks
 
 **Research Group**  
-Gureiker
+[Gureiker](https://www.ehu.eus/es/web/gureiker)
 
+**Reseearch Networks**
+[CIBERCOM](https://www.ehu.eus/es/web/gureiker/cibercom)
+[IBERPERIA](https://www.iberperia.ubi.pt/)
+[OBIACOM](https://obiacom.wordpress.com/)
 ---
 
 [Academic Profile](/spenafernandez/) ·
