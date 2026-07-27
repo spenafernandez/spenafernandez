@@ -18,6 +18,7 @@ University of the Basque Country (UPV/EHU), Spain
 **Research fields:** Artificial Intelligence · Journalism · Digital Media · Disinformation · Social Media · Political Communication
 
 **ORCID:** [https://orcid.org/0000-0003-2080-3241](https://orcid.org/0000-0003-2080-3241)
+
 **Email:** [simon.pena@ehu.eus](mailto:simon.pena@ehu.eus)
 
 ## Academic profile
