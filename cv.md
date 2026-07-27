@@ -180,8 +180,11 @@ Regular contributor to Basque media on issues related to **artificial intelligen
 
 **Reseearch Networks**
 [CIBERCOM](https://www.ehu.eus/es/web/gureiker/cibercom)
+
 [IBERPERIA](https://www.iberperia.ubi.pt/)
+
 [OBIACOM](https://obiacom.wordpress.com/)
+
 ---
 
 [Academic Profile](/spenafernandez/) ·
