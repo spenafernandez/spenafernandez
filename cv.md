@@ -179,11 +179,8 @@ Regular contributor to Basque media on issues related to **artificial intelligen
 [Gureiker](https://www.ehu.eus/es/web/gureiker)
 
 **Reseearch Networks**
-
 [Cibercom](https://www.ehu.eus/es/web/gureiker/cibercom)
-
 [Iberperia](https://www.iberperia.ubi.pt/)
-
 [Obiacom](https://obiacom.wordpress.com/)
 
 ---
