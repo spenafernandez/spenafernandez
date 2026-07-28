@@ -97,7 +97,6 @@ Selected Horizon 2020 projects include:
 - **BEYOND — Inclusive Futures for Europe Beyond the Impacts of Industries 4.0 and Digital Disruption**
 - **Social Innovation Community (SIC)**
 
-I am also a member of international research networks in artificial intelligence and communication, including **IBERPERIA** and **OBIACOM**.
 
 ## Publications
 
